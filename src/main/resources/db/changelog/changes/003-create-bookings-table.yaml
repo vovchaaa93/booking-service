@@ -1,7 +1,7 @@
 databaseChangeLog:
   - changeSet:
       id: 003-create-bookings-table
-      author: your_name
+      author: lubskiy.va
       changes:
         - createTable:
             tableName: bookings
